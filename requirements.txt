@@ -1,0 +1,6 @@
+# Computation
+numpy==1.26.2
+pandas==2.1.4
+
+# GUI
+streamlit==1.29.0
